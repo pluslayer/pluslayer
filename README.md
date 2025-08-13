@@ -7,7 +7,7 @@ Keywords: PlusLayer, Hosting, Domain, Cloud, VPS, Dedicated Servers, Data Center
 </p>
 
 <h1 align="center">🌐 PlusLayer</h1>
-<h3 align="center">Global Infrastructure. Local Excellence.</h3>
+<h3 align="center">Reliable Domain Names, Unlimited Hosting & İzmir Data Center Solutions</h3>
 
 ---
 

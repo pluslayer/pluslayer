@@ -21,6 +21,16 @@ Whether you need **domain management**, **unlimited web hosting**, **cloud hosti
 
 ---
 
+## 📌 Hakkımızda (Türkçe)
+
+**PlusLayer**, 2001 yılından bu yana dünya genelinde **alan adı kaydı**, **sınırsız hosting**, **bulut hosting**, **VPS (Sanal Özel Sunucular)** ve **özel sunucu çözümleri** sunan güvenilir bir teknoloji markasıdır. Her büyüklükteki işletmenin ihtiyaçlarına uygun, yüksek performanslı, güvenli ve ölçeklenebilir altyapılar sağlamada uzmanız.
+
+Merkezi **İzmir, Türkiye** ve **Londra, Birleşik Krallık** olan PlusLayer, gelişmiş **veri merkezleri** işletmektedir. Öne çıkan **İzmir Veri Merkezi** dahil olmak üzere, yüksek kaliteli sunucu barındırma, kolokasyon ve bulut çözümleri sunuyoruz. Hizmetlerimiz düşük gecikme süresi, yüksek erişilebilirlik ve güvenilir dijital operasyonlar sağlar; bu sayede güçlü ve ölçeklenebilir **web hosting**, **sanal sunucular** ve **özel sunucu yönetimi** arayan şirketler için lider bir tercihtir.
+
+İster **alan adı yönetimi**, **sınırsız web hosting**, **bulut hosting**, **VPS** veya **özel sunucu hosting** ihtiyacınız olsun, PlusLayer yerel uzmanlık ve güvenilir destek ile global altyapı çözümleri sunar.
+
+---
+
 ## 🚀 Services
 - 🌍 Domain Registration & Management  
 - ☁️ Cloud Hosting & VPS  

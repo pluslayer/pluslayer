@@ -6,7 +6,7 @@ Keywords: PlusLayer, Hosting, Domain, Cloud, VPS, Dedicated Servers, Data Center
   <img src="https://www.pluslayer.com/templates/pluslayer/svg/logo_pluslayer.svg" alt="PlusLayer Logo" width="250">
 </p>
 
-<h1 align="center">🌐 PlusLayer Technologies</h1>
+<h1 align="center">🌐 PlusLayer</h1>
 <h3 align="center">Global Infrastructure. Local Excellence.</h3>
 
 ---
@@ -14,7 +14,7 @@ Keywords: PlusLayer, Hosting, Domain, Cloud, VPS, Dedicated Servers, Data Center
 ## 📌 About PlusLayer
 
 **PlusLayer**, 2001’den beri dünya çapında alan adı, hosting, bulut çözümleri ve veri merkezi hizmetleri sunan, yüksek erişilebilirlik ve güvenlik odaklı bir teknoloji markasıdır.  
-**London, UK** ve **İzmir, TR** merkezli olarak global müşteri ağına hizmet vermektedir.
+**İzmir, TR** ve **London, UK** merkezli olarak global müşteri ağına hizmet vermektedir.
 
 ---
 
